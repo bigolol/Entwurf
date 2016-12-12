@@ -58,7 +58,8 @@ Eine Trennung wie sie in \ref{abstract_section} und \ref{concrete_section} darge
 Hier wird ein Überblick über die einzelnen Komponenten gegeben. Wie bereits erwähnt werden alle Komponenten nach dem Model-View-Controller Prinzip in Funktionalität untergliedert. Dies bewirkt eine Trennung der internen und für den Benutzer sichtbaren Darstellung der verschiedenen Daten. Darauf wird im Folgenden der Schwerpunkt gelegt. Darauf, wie die Funktionalität zwischen den Komponenten geteilt wird, wird noch nicht eingegangen.
 
 \subsection{C-Editor}
-Der C-Editor hat als hauptsächliche Komplikation die Tatsache, dass sowohl die Darstellung des Code (View) als auch die Eingabe des Benutzers (Controller) als auch Speichern des Codes in Textform (Model) zunächst durch eine Komponente - die JTextPane - übernommen werden. Um dies flexibler zu gestalten, werden diese Aspekte entkoppelt. Die 
+Der C-Editor hat als hauptsächliche Komplikation die Tatsache, dass sowohl die Darstellung des Code (View) als auch die Eingabe des Benutzers (Controller) als auch interne Darstellung des Codes als String (Model) zunächst durch eine Komponente - die JTextPane - übernommen werden. Dies hat den Vorteil, dass viel Funktionalität bereitgestellt wird: Kopieren, Löschen, Ausschneiden von Text. Der Nachteil ist wenig Flexibilität den Text während der Eingabe zu bearbeiten. Daher werden diese Funktionen getrennt bearbeitet werden. Die Keypress - Events werden nicht mehr direkt an die Textpane weitergeleitet sondern zunächst abgefangen. Der Code wird intern in einem speziellen Format abgespeichert. Dieses feuert ein Event wann immer der Code aktualisiert wird oder Fehler im Code festgestellt werden. Dieses Event wird von dem TextPaneDecorator abgefangen, der den Code dann darstellt und sich um das Syntax Highlighting kümmert. 
+
 
 \begin{figure}[H]
 \includegraphics[scale=0.4, angle = 270]{CEditorMVC.png}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.3)  12 DEC 2016 09:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.3)  12 DEC 2016 09:47
 entering extended mode
 **Entwurf.tex
 (D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.tex
@@ -687,62 +687,62 @@ el/highest-level-concrete-view.png (PNG copy)>]
 File: images/C-Editor/CEditorMVC.png Graphic file (type png)
 
 <use images/C-Editor/CEditorMVC.png>
-Package pdftex.def Info: images/C-Editor/CEditorMVC.png used on input line 63.
-(pdftex.def)             Requested size: 551.5689pt x 281.05421pt.
- [5] [6]
-Overfull \vbox (9.43123pt too high) has occurred while \output is active []
+Package pdftex.def Info: images/C-Editor/CEditorMVC.png used on input line 65.
+(pdftex.def)             Requested size: 630.34384pt x 321.1943pt.
+ [5]
+Overfull \vbox (59.14357pt too high) has occurred while \output is active []
 
 
-[7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3}
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.67 
+l.69 
       <D:/studium/PSE/Entwurf/repo/Entwurf/images/C-Editor/CEditorMVC.png (PNG 
 copy)>]
 chapter 2.
-<images/CBMC/cbmcDiagram.jpg, id=77, 2989.1675pt x 1805.74625pt>
+<images/CBMC/cbmcDiagram.jpg, id=72, 2989.1675pt x 1805.74625pt>
 File: images/CBMC/cbmcDiagram.jpg Graphic file (type jpg)
 
 <use images/CBMC/cbmcDiagram.jpg>
-Package pdftex.def Info: images/CBMC/cbmcDiagram.jpg used on input line 72.
+Package pdftex.def Info: images/CBMC/cbmcDiagram.jpg used on input line 74.
 (pdftex.def)             Requested size: 747.29005pt x 451.43546pt.
 
-Overfull \hbox (33.1799pt too wide) in paragraph at lines 72--73
+Overfull \hbox (33.1799pt too wide) in paragraph at lines 74--75
 [][]
  []
 
-[8
+[7
 
 ]
 Overfull \vbox (180.16983pt too high) has occurred while \output is active []
 
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}
 ) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.76 
+l.78 
       <D:/studium/PSE/Entwurf/repo/Entwurf/images/CBMC/cbmcDiagram.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 
 (D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `Entwurf.out' has not changed.
 (rerunfilecheck)             Checksum: A3125186351909D9B6BF643F53F6A129;592.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 8411 strings out of 493921
- 132653 string characters out of 3148458
+ 8410 strings out of 493921
+ 132647 string characters out of 3148458
  301780 words of memory out of 3000000
  11576 multiletter control sequences out of 15000+200000
  21127 words of font info for 44 fonts, out of 3000000 for 9000
@@ -752,9 +752,9 @@ Here is how much of TeX's memory you used:
 lationen/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Installationen/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Installationen/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Entwurf.pdf (9 pages, 967569 bytes).
+Output written on Entwurf.pdf (8 pages, 968613 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
