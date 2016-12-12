@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.3)  12 DEC 2016 07:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.3)  12 DEC 2016 09:35
 entering extended mode
 **Entwurf.tex
-(D:\studium\PSE\Entwurf\Latex\Entwurf.tex
+(D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -547,25 +547,28 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks19
 \@floatcapt=\box29
 )
-(D:\studium\PSE\Entwurf\Latex\Entwurf.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-\AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 18.
+(D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.aux
 
-(D:\Installationen\MiKTeX\tex\latex\hyperref\nameref.sty
+LaTeX Warning: Label `concrete_view_of_beast_architecture' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+\AtBeginShipoutBox=\box30
+Package hyperref Info: Link coloring OFF on input line 20.
+ (D:\Installationen\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (D:\Installationen\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
@@ -573,12 +576,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count104
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
-(D:\studium\PSE\Entwurf\Latex\Entwurf.out)
-(D:\studium\PSE\Entwurf\Latex\Entwurf.out)
+(D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.out)
+(D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.out)
 \@outlinefile=\write4
 
 (D:\Installationen\MiKTeX\tex\context\base\supp-pdf.mkii
@@ -595,14 +598,14 @@ LaTeX Info: Redefining \nameref on input line 18.
 \makeMPintoPDFobject=\count110
 \everyMPtoPDFconversion=\toks21
 )
-LaTeX Font Info:    Try loading font information for T1+aess on input line 23.
+LaTeX Font Info:    Try loading font information for T1+aess on input line 25.
  (D:\Installationen\MiKTeX\tex\latex\ae\t1aess.fd
 File: t1aess.fd 1997/11/16 Font definitions for T1/aess.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 23.
+(Font)              <14.4> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 25.
  [1
 
 
@@ -624,44 +627,44 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface .
 
-LaTeX Font Info:    Try loading font information for OMS+aer on input line 30.
+LaTeX Font Info:    Try loading font information for OMS+aer on input line 32.
 (D:\Installationen\MiKTeX\tex\latex\ae\omsaer.fd
 File: omsaer.fd 1999/12/27
 )
 LaTeX Font Info:    Font shape `OMS/aer/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
 
-Overfull \hbox (2.35052pt too wide) in paragraph at lines 32--33
+Overfull \hbox (2.35052pt too wide) in paragraph at lines 34--35
 []\T1/aer/m/n/10.95 Eine Über-prü-fungs-in-stanz wel-che Wahl-ver-fah-ren und E
 i-gen-schaf-ten ent-ge-gen-nimmt
  []
 
 
-<images/high-level/highest-level-general-view.png, id=30, 853.1875pt x 542.025p
+<images/high-level/highest-level-general-view.png, id=42, 853.1875pt x 542.025p
 t>
 File: images/high-level/highest-level-general-view.png Graphic file (type png)
  <use images/high-level/highest-level-general-view.png>
 Package pdftex.def Info: images/high-level/highest-level-general-view.png used 
-on input line 38.
+on input line 40.
 (pdftex.def)             Requested size: 426.59271pt x 271.01183pt.
 
-Overfull \hbox (8.33716pt too wide) in paragraph at lines 38--39
+Overfull \hbox (8.33716pt too wide) in paragraph at lines 40--41
 [][]
  []
 
 [2
 
 ]
-<images/high-level/highest-level-concrete-view.png, id=37, 863.225pt x 592.2125
+<images/high-level/highest-level-concrete-view.png, id=49, 863.225pt x 592.2125
 pt>
 File: images/high-level/highest-level-concrete-view.png Graphic file (type png)
 
  <use images/high-level/highest-level-concrete-view.png>
 Package pdftex.def Info: images/high-level/highest-level-concrete-view.png used
- on input line 47.
+ on input line 49.
 (pdftex.def)             Requested size: 431.61145pt x 296.10551pt.
 
-Overfull \hbox (13.3559pt too wide) in paragraph at lines 47--48
+Overfull \hbox (13.3559pt too wide) in paragraph at lines 49--50
 [][]
  []
 
@@ -670,45 +673,88 @@ Overfull \hbox (13.3559pt too wide) in paragraph at lines 47--48
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.51 
-      <D:/studium/PSE/Entwurf/Latex/images/high-level/highest-level-general-vie
-w.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2
-}) has been already used, duplicate ignored
+l.53 
+      <D:/studium/PSE/Entwurf/repo/Entwurf/images/high-level/highest-level-gene
+ral-view.png (PNG copy)>] [4pdfTeX warning (ext4): destination with the same id
+entifier (name{figure.1.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.55 \end{document}
-                    <D:/studium/PSE/Entwurf/Latex/images/high-level/highest-lev
-el-concrete-view.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
- (D:\studium\PSE\Entwurf\Latex\Entwurf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 55.
+l.60 \subsection
+                {C-Editor} <D:/studium/PSE/Entwurf/repo/Entwurf/images/high-lev
+el/highest-level-concrete-view.png (PNG copy)>]
+<images/C-Editor/CEditorMVC.png, id=62, 1575.8875pt x 803.0pt>
+File: images/C-Editor/CEditorMVC.png Graphic file (type png)
+
+<use images/C-Editor/CEditorMVC.png>
+Package pdftex.def Info: images/C-Editor/CEditorMVC.png used on input line 63.
+(pdftex.def)             Requested size: 551.5689pt x 281.05421pt.
+ [5] [6]
+Overfull \vbox (9.43123pt too high) has occurred while \output is active []
+
+
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.67 
+      <D:/studium/PSE/Entwurf/repo/Entwurf/images/C-Editor/CEditorMVC.png (PNG 
+copy)>]
+chapter 2.
+<images/CBMC/cbmcDiagram.jpg, id=77, 2989.1675pt x 1805.74625pt>
+File: images/CBMC/cbmcDiagram.jpg Graphic file (type jpg)
+
+<use images/CBMC/cbmcDiagram.jpg>
+Package pdftex.def Info: images/CBMC/cbmcDiagram.jpg used on input line 72.
+(pdftex.def)             Requested size: 747.29005pt x 451.43546pt.
+
+Overfull \hbox (33.1799pt too wide) in paragraph at lines 72--73
+[][]
+ []
+
+[8
+
+]
+Overfull \vbox (180.16983pt too high) has occurred while \output is active []
+
+
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.76 
+      <D:/studium/PSE/Entwurf/repo/Entwurf/images/CBMC/cbmcDiagram.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
+
+(D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `Entwurf.out' has not changed.
-(rerunfilecheck)             Checksum: 019CE1F005CD285E22245AD9F206383D;365.
+(rerunfilecheck)             Checksum: A3125186351909D9B6BF643F53F6A129;592.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 8379 strings out of 493921
- 131993 string characters out of 3148458
- 301577 words of memory out of 3000000
- 11559 multiletter control sequences out of 15000+200000
+ 8411 strings out of 493921
+ 132653 string characters out of 3148458
+ 301780 words of memory out of 3000000
+ 11576 multiletter control sequences out of 15000+200000
  21127 words of font info for 44 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 43i,6n,66p,8840b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,8n,66p,8840b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
 <D:/Installationen/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Instal
 lationen/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Installationen/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Installationen/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Entwurf.pdf (4 pages, 120557 bytes).
+Output written on Entwurf.pdf (9 pages, 967569 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
