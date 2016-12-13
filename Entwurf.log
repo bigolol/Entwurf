@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.3)  12 DEC 2016 09:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2016.12.3)  13 DEC 2016 20:49
 entering extended mode
 **Entwurf.tex
 (D:\studium\PSE\Entwurf\repo\Entwurf\Entwurf.tex
@@ -683,14 +683,19 @@ entifier (name{figure.1.2}) has been already used, duplicate ignored
 l.60 \subsection
                 {C-Editor} <D:/studium/PSE/Entwurf/repo/Entwurf/images/high-lev
 el/highest-level-concrete-view.png (PNG copy)>]
-<images/C-Editor/CEditorMVC.png, id=62, 1575.8875pt x 803.0pt>
+<images/C-Editor/CEditorMVC.png, id=62, 1636.1125pt x 1224.575pt>
 File: images/C-Editor/CEditorMVC.png Graphic file (type png)
 
 <use images/C-Editor/CEditorMVC.png>
 Package pdftex.def Info: images/C-Editor/CEditorMVC.png used on input line 65.
-(pdftex.def)             Requested size: 630.34384pt x 321.1943pt.
- [5]
-Overfull \vbox (59.14357pt too high) has occurred while \output is active []
+(pdftex.def)             Requested size: 654.43341pt x 489.82132pt.
+
+Overfull \hbox (71.56577pt too wide) in paragraph at lines 65--66
+[][]
+ []
+
+[5]
+Overfull \vbox (87.31319pt too high) has occurred while \output is active []
 
 
 [6pdfTeX warning (ext4): destination with the same identifier (name{figure.1.3}
@@ -752,7 +757,7 @@ Here is how much of TeX's memory you used:
 lationen/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Installationen/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/Installationen/MiKTeX/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Entwurf.pdf (8 pages, 968613 bytes).
+Output written on Entwurf.pdf (8 pages, 1037543 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
