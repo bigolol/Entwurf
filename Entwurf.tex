@@ -51,6 +51,20 @@ Der Vorteil der abstrakten Beschreibung ist, dass sie quasi unbegrenzte Möglich
 \label{concrete_view_of_beast_architecture}
 \end{figure}
 
+Genauer besitzen die Packete C-Editor, Eigenschaftenliste und CBMC-Schnittstelle jeweils Klassen, welche diese abstrakte Sichtweise widerspiegeln. Über diese wird die Kommunikation zwischen den Paketen ablaufen, gesteuert von dem Parametereditor.
+
+\begin{figure}[H]
+\includegraphics[scale=0.4]{high-level-communication.png}
+\caption{Überblick über die Kommunikation zwischen den Paketen zum Überprüfen der Eigenschaften}
+\label{view_of_communication_checking_formal_props}
+\end{figure}
+
+\begin{figure}[H]
+\includegraphics[scale=0.35]{high-level-communication-activity.png}
+\caption{Zeitlicher Ablauf der Kommunikation}
+\label{view_of_communication_checking_formal_props_activity_diagram}
+\end{figure}
+
 \subsection{Komplikationen im konkreten Fall}
 Eine Trennung wie sie in \ref{abstract_section} und \ref{concrete_section} dargestellt wird ist in unserem konkreten Fall nicht zu hundert Prozent praktikabel. Dies liegt daran, dass die Komponenten ansonsten einige Funktionalität duplizieren würden. Alle Komponenten benötigen Funktionalität zum Laden und Speichern von Dateien. C-Editor und Eigenschafteneditor haben beide Textpanels welche Code darstellen. Dieser muss in beiden Fällen auf bestimmte Art und Weiße formatiert werden und auf Fehler untersucht werden. Gefundene Fehler müssen in beiden Fällen im Code markiert werden. All diese mehrmals aufkommende Funktionalität wird in eigene Klassen gekapselt werden.
 
