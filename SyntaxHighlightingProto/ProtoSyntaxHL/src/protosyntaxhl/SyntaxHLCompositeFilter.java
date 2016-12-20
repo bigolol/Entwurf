@@ -69,20 +69,9 @@ public final class SyntaxHLCompositeFilter extends DocumentFilter{
      */
     private Pattern buildPattern(LinkedList<String> tokenArray)
     {
-        StringBuilder sb = new StringBuilder();
-        for (String token : tokenArray) {
-            sb.append("\\b"); // Start of word boundary
-            sb.append(token);
-            sb.append("\\b|");
         
-        }
-        if (sb.length() > 0) {
-            sb.deleteCharAt(sb.length() - 1); // Remove the trailing "|"
-        }
-
-        Pattern p = Pattern.compile(sb.toString());
-
-        return p;
+        Pattern p = Pattern.compile(tokenArray.get(0));
+            return p;
     }
 
 
@@ -93,7 +82,6 @@ public final class SyntaxHLCompositeFilter extends DocumentFilter{
         
         // iterate over differnt groups of tokens and format them
         for (TokenColorEnc iter : tokenColorEncList) {
-            
             // Look for tokens and highlight them
             Matcher matcher = buildPattern(iter.getTokens()).matcher(textPane.getText());
         

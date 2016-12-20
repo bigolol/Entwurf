@@ -17,9 +17,9 @@ import java.util.LinkedList;
 public final class TokenColorEncList {
    
     private static TokenColorEnc variable = new TokenColorEnc(new LinkedList<String> (Arrays.asList("[a-z]+[a-zA-Z]*")), Color.RED);
-    private static TokenColorEnc typeList = new TokenColorEnc(new LinkedList<String> (Arrays.asList("int", "char", "void", "long", "short")), Color.GREEN);
-
-    private final static LinkedList<TokenColorEnc> list = new LinkedList<TokenColorEnc>(Arrays.asList(variable, typeList));
+    private static TokenColorEnc typeList = new TokenColorEnc(new LinkedList<String> (Arrays.asList("int|char|short|void|long|short")), Color.GREEN);
+    private static TokenColorEnc stringQuotation = new TokenColorEnc(new LinkedList<String> (Arrays.asList("\"[^\"]+\"")), Color.BLUE);
+    private final static LinkedList<TokenColorEnc> list = new LinkedList<TokenColorEnc>(Arrays.asList(variable, typeList, stringQuotation));
 
     private TokenColorEncList(){}
     
