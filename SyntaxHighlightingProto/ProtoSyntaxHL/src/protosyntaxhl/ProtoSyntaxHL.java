@@ -6,6 +6,7 @@
 package protosyntaxhl;
 
 import java.awt.Color;
+import java.awt.Font;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.regex.Pattern;
@@ -28,10 +29,9 @@ public class ProtoSyntaxHL {
      */
     public static void main(String[] args) throws BadLocationException {
        NewJFrame jFrame = new NewJFrame();    
-       
+
        // create new composite filter with textPane
        SyntaxHLCompositeFilter filter = new SyntaxHLCompositeFilter(jFrame.getTextPane(), TokenColorEncList.getList());
-       
        // apply filter to jFrame's StyledDocument
        ((AbstractDocument) jFrame.getStyledDocument()).setDocumentFilter(filter);
        
