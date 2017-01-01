@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/scooby/NetBeansProjects/ProtoSyntaxHL/src/protosyntaxhl/TokenColorEncList.java</file>
-            <file>file:/home/scooby/NetBeansProjects/ProtoSyntaxHL/src/protosyntaxhl/SyntaxHLCompositeFilter.java</file>
-            <file>file:/home/scooby/NetBeansProjects/ProtoSyntaxHL/src/protosyntaxhl/TokenColorEnc.java</file>
-            <file>file:/home/scooby/NetBeansProjects/ProtoSyntaxHL/src/protosyntaxhl/ProtoSyntaxHL.java</file>
-            <file>file:/home/scooby/NetBeansProjects/ProtoSyntaxHL/src/protosyntaxhl/NewJFrame.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/SyntaxHLCompositeFilter.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/NewJFrame.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/SyntaxHL.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/TokenColorEncList.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/ProtoSyntaxHL.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/TokenColorEnc.java</file>
         </group>
     </open-files>
 </project-private>

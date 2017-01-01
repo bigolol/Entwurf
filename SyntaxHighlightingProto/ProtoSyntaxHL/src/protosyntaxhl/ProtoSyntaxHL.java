@@ -29,11 +29,12 @@ public class ProtoSyntaxHL {
      */
     public static void main(String[] args) throws BadLocationException {
        NewJFrame jFrame = new NewJFrame();    
-
-       // create new composite filter with textPane
-       SyntaxHLCompositeFilter filter = new SyntaxHLCompositeFilter(jFrame.getTextPane(), TokenColorEncList.getList());
-       // apply filter to jFrame's StyledDocument
-       ((AbstractDocument) jFrame.getStyledDocument()).setDocumentFilter(filter);
+       
+       /**
+        * Calling this will trigger the creation of a SyntaxHLCompositeFilter
+        * and its application to the JTextPanes StyledDocument.
+        */
+       SyntaxHL.applyFilter(jFrame.getTextPane(), TokenColorEncList.getList());
        
        jFrame.setVisible(true);
     }
