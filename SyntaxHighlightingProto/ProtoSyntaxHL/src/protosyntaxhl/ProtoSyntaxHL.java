@@ -6,8 +6,10 @@
 package protosyntaxhl;
 
 import java.awt.Color;
+import java.awt.Font;
 import java.util.Arrays;
 import java.util.LinkedList;
+import java.util.regex.Pattern;
 import javax.swing.text.AbstractDocument;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.DefaultStyledDocument;
@@ -27,12 +29,12 @@ public class ProtoSyntaxHL {
      */
     public static void main(String[] args) throws BadLocationException {
        NewJFrame jFrame = new NewJFrame();    
-    
-       // create new composite filter with textPane and list from above
-       SyntaxHLCompositeFilter filter = new SyntaxHLCompositeFilter(jFrame.getTextPane(), TokenColorEncList.getList());
        
-       // apply filter to jFrame's StyledDocument
-       ((AbstractDocument) jFrame.getStyledDocument()).setDocumentFilter(filter);
+       /**
+        * Calling this will trigger the creation of a SyntaxHLCompositeFilter
+        * and its application to the JTextPanes StyledDocument.
+        */
+       SyntaxHL.applyFilter(jFrame.getTextPane(), TokenColorEncList.getList());
        
        jFrame.setVisible(true);
     }

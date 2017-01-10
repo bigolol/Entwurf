@@ -2,6 +2,17 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
         <group/>
+=======
+        <group>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/SyntaxHLCompositeFilter.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/NewJFrame.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/SyntaxHL.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/TokenColorEncList.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/ProtoSyntaxHL.java</file>
+            <file>file:/home/scooby/Entwurf/SyntaxHighlightingProto/ProtoSyntaxHL/src/protosyntaxhl/TokenColorEnc.java</file>
+        </group>
+>>>>>>> d93a432957b693d612c196e79cbd9421139f48e0
     </open-files>
 </project-private>
